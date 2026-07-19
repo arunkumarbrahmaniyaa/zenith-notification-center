@@ -1,6 +1,6 @@
 {
   "name": "zenith-notification-center",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Enterprise-grade React notification ecosystem: toasts, inbox, realtime, push, offline queue, and analytics.",
   "type": "module",
   "main": "dist/index.cjs",
