@@ -1,4 +1,4 @@
-# @zenithlogiclabs/react-notification-center
+zenith-react-notification-center
 
 Enterprise-grade React notification ecosystem inspired by Microsoft Teams, Slack, GitHub, Discord, and Firebase Notifications.
 
